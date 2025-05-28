@@ -1,10 +1,10 @@
 ## MainFlow-task1
 🚀 Excited to share my first project during my Data Analysis Using Python internship at Main Flow Services and Technologies Pvt. Ltd!
 
-#🔍 Project: Student Performance Analysis
+🔍 Project: Student Performance Analysis
 Using the student-mat.csv dataset, I explored academic data to derive insights into student performance based on various factors such as study time, gender, and grades.
 
-📌# Project Highlights:
+📌 Project Highlights:
 
 ✅ Loaded and inspected the dataset using Pandas.
 
